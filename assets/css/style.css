@@ -1,0 +1,38 @@
+body{
+    font-family: Josefin Sans;
+}
+.logo{
+    width: 100px;
+    height:100px;
+}
+.card-img-top {
+    width: 400px;
+    height: 200px;
+    } 
+
+body h4{
+    font-size: 20pt;
+    color: #212529;
+    text-align: left;
+}
+body h5{
+    font-size: 16pt;
+    color: #707070;
+    text-align: left;
+}
+body h6{
+    font-size: 13pt;
+    color: #707070;
+    text-align: left;
+}
+
+body #inputName{
+    color: blue;
+}
+
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+  }
